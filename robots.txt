@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calamity-menu-selector.enjoy-onepage.com/sitemap.xml
