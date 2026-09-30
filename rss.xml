@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>점심 메뉴 결전 룰렛: 직장인 결정 장애 극복기</title>
+  <title>점심 메뉴 결전 룰렛: 오늘 점심 뭐 먹지 고민 끝</title>
   <link>https://calamity-menu-selector.enjoy-onepage.com/</link>
-  <description>오늘 점심 뭐 먹지? 행동경제학 기반 선택 마비 해소 룰렛: 한식, 중식, 일식, 양식, 분식 16종 대표 메뉴와 커스텀 식당을 1초 만에 공정 추첨합니다.</description>
+  <description>오늘 점심 뭐 먹지? 한식·중식·일식·양식·분식·아시아 메뉴 49개와 직접 넣은 식당 중에서 공정하게 하나를 뽑습니다. 국물·맵기 조건, 최근에 먹은 메뉴 건너뛰기, 이 기기에만 저장.</description>
   <language>ko-kr</language>
   <atom:link href="https://calamity-menu-selector.enjoy-onepage.com/rss.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 29 Sep 2026 06:01:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 07:00:00 GMT</lastBuildDate>
   <item>
-    <title>이용약관 - 점심 메뉴 결전 룰렛: 직장인 결정 장애 극복기</title>
+    <title>이용약관 | 점심 메뉴 결전 룰렛</title>
     <link>https://calamity-menu-selector.enjoy-onepage.com/terms.html</link>
-    <guid isPermaLink="true">https://calamity-menu-selector.enjoy-onepage.com/terms.html</guid>
-    <description>점심 메뉴 결전 룰렛: 직장인 결정 장애 극복기의 서비스 이용약관입니다. 면책 조항 및 서비스 이용 기준을 안내합니다.</description>
-    <pubDate>Mon, 21 Sep 2026 23:09:16 +0900</pubDate>
+    <guid>https://calamity-menu-selector.enjoy-onepage.com/terms.html</guid>
+    <description>점심 메뉴를 무작위로 골라 주는 도구이며, 국물·맵지 않음 표시는 대략적인 구분입니다.</description>
+    <pubDate>Wed, 30 Sep 2026 07:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>개인정보처리방침 - 점심 메뉴 결전 룰렛: 직장인 결정 장애 극복기</title>
+    <title>개인정보처리방침 | 점심 메뉴 결전 룰렛</title>
     <link>https://calamity-menu-selector.enjoy-onepage.com/privacy.html</link>
-    <guid isPermaLink="true">https://calamity-menu-selector.enjoy-onepage.com/privacy.html</guid>
-    <description>점심 메뉴 결전 룰렛: 직장인 결정 장애 극복기의 개인정보처리방침입니다. 본 도구는 사용자 데이터를 서버로 전송하지 않습니다.</description>
-    <pubDate>Mon, 21 Sep 2026 23:09:16 +0900</pubDate>
-  </item>
-  <item>
-    <title>점심 메뉴 결정 장애 극복과 행동경제학 기반 선택 최적화 가이드</title>
-    <link>https://calamity-menu-selector.enjoy-onepage.com/guides/guide.html</link>
-    <guid isPermaLink="true">https://calamity-menu-selector.enjoy-onepage.com/guides/guide.html</guid>
-    <description>매일 점심시간마다 반복되는 선택 마비(Choice Overload)의 원인, 의사결정 인지 비용 절감 알고리즘, 영양 균형과 카테고리별 스마트 룰렛 활용법을 정밀 분석합니다.</description>
-    <pubDate>Mon, 21 Sep 2026 22:49:39 +0900</pubDate>
+    <guid>https://calamity-menu-selector.enjoy-onepage.com/privacy.html</guid>
+    <description>내 목록과 최근 점심은 이 브라우저에만 저장하며 운영자에게 보내지 않습니다.</description>
+    <pubDate>Wed, 30 Sep 2026 07:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
